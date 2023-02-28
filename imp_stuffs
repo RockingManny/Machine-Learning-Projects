@@ -3,3 +3,23 @@
 3. ChatGPT
 4. Prompt Engineering
 5. BLOOM/GPT-3 with SageMaker : https://www.youtube.com/redirect?event=live_chat&redir_token=QUFFLUhqbjZCQUJIRVptVUZBaE5NaTFnRUs3X2U2N3M0d3xBQ3Jtc0ttX0tPbTVqYVk3UHZtcFE1WGEyX203bUZraTRleWRGdl9EUFdRVC13MEJScE94NkFzeWphZ3VCRlZIN0hxVnI0WVp3eVBXdVJHY21yNHFtQzdicDhYa2wwZE1MTkFYMkRTRU45M0FzblZvX2MwRFZQUQ&q=https%3A%2F%2Fgithub.com%2Fdata-science-on-aws%2Fdata-science-on-aws%2Fblob%2Fgpt3%2F00_quickstart%2F06_Train_and_Fine_Tune_GPT3_PyTorch.ipynb
+
+
+
+# Amazon Glue Workshop:
+- serverless integration engine
+- automatic scaling
+- data ingestion pipelines
+
+o Apache Spark
+o Python
+o Ray 
+
+Glue Lab 28/02/2023 : https://amazon.webex.com/amazon-en/url.php?frompanel=false&gourl=https%3A%2F%2Fcatalog.us-east-1.prod.workshops.aws%2Fjoin%3Faccess-code%3Ddc60-008283-73
++ Glue Studio
++ Glue Studio Notebook
++ Glue DataBrew
++ Amazon SageMaker Studio notebook
+
+# Apache Iceberg
+# Apache Hudi vs Delta Lake vs Apache Iceberg - Lakehouse Feature Comparison : https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison?gclid=EAIaIQobChMIgurHitPS_AIVhMqUCR1G4QC-EAAYAiAAEgJxv_D_BwE
